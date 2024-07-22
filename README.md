@@ -24,14 +24,14 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDoe&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ritanayak&show_icons=true&theme=radical)
 
 
 ## 📊 GitHub Profile Summary Cards
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnDoe&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnDoe&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnDoe&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritanayak&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritanayak&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritanyak&theme=radical)
 
 
 ## 🌟 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnDoe&repo=my-awesome-repo&theme=radical)](https://github.com/JohnDoe/my-awesome-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnDoe&repo=my-awesome-repo&theme=radical)](https://github.com/ritanayak/Task-Planner)
