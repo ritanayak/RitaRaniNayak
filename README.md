@@ -32,6 +32,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritanayak&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritanyak&theme=radical)
 
-
-## 🌟 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnDoe&repo=my-awesome-repo&theme=radical)](https://github.com/ritanayak/Task-Planner)
